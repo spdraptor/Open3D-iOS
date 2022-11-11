@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BLAS-LAPACK-AppStore-Workaround",
+        "repositoryURL": "https://github.com/kewlbear/BLAS-LAPACK-AppStore-Workaround.git",
+        "state": {
+          "branch": "main",
+          "revision": "dc78ff05b3c8c1c39d83aab9bdbaef59dc6c87f5",
+          "version": null
+        }
+      },
+      {
+        "package": "LAPACKE-iOS",
+        "repositoryURL": "https://github.com/kewlbear/LAPACKE-iOS.git",
+        "state": {
+          "branch": "main",
+          "revision": "6fbd386ff1cbde8ee6cbf83d2d398d21f8e4474d",
+          "version": null
+        }
+      },
+      {
+        "package": "NumPy-iOS",
+        "repositoryURL": "https://github.com/kewlbear/NumPy-iOS.git",
+        "state": {
+          "branch": "main",
+          "revision": "0f5d909f2353fad05deb8c3b6256ebbbb60453c2",
+          "version": null
+        }
+      },
+      {
+        "package": "Python-iOS",
+        "repositoryURL": "https://github.com/kewlbear/Python-iOS.git",
+        "state": {
+          "branch": "kivy-ios",
+          "revision": "d5964d0bac4839a5f095550786626979945ebf04",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
